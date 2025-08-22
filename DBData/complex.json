@@ -1,0 +1,10 @@
+{
+  "employees": [
+    { "id": 1, "name": "Faraz", "role": "DevOps Engineer" },
+    { "id": 2, "name": "Bilal", "role": "Data Scientist" }
+  ],
+  "departments": [
+    { "deptId": "D1", "deptName": "IT" },
+    { "deptId": "D2", "deptName": "HR" }
+  ]
+}
